@@ -1,2 +1,2 @@
-# nba_archetypes
-NBA Player Archetypes
+# NBA Data Analytics Project
+
